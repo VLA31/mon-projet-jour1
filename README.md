@@ -3,7 +3,6 @@
 readme
 
 
-HEAD
 changement en local
 
 modif sur gitub
