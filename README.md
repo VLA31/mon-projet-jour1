@@ -3,4 +3,8 @@
 readme
 
 
-xchangement en local
+HEAD
+changement en local
+
+modif sur gitub
+refs/remotes/origin/master
